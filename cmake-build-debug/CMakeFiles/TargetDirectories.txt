@@ -1,3 +1,0 @@
-C:/Users/yunus/OneDrive/School/Game/cmake-build-debug/CMakeFiles/Game.dir
-C:/Users/yunus/OneDrive/School/Game/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/yunus/OneDrive/School/Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
