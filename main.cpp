@@ -87,7 +87,7 @@ int main(int argc, char *argv[]) {
     }
 
     // Create an SDL window
-    SDL_Window* window = SDL_CreateWindow("Snake Game Field", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, WIDTH * SQUARE_SIZE, HEIGHT * SQUARE_SIZE, SDL_WINDOW_SHOWN);
+    SDL_Window* window = SDL_CreateWindow("Snake Game", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, WIDTH * SQUARE_SIZE, HEIGHT * SQUARE_SIZE, SDL_WINDOW_SHOWN);
     if (!window) {
         std::cerr << "Fehler beim Erstellen des Fensters: " << SDL_GetError() << std::endl;
         SDL_Quit();
