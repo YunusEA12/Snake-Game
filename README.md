@@ -1,4 +1,3 @@
-```markdown
 # Snake Game
 
 This is a simple snake game implemented in C++ using the SDL library.
@@ -49,7 +48,4 @@ This snake game allows the player to control a snake on a grid. The objective is
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
